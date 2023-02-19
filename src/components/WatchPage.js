@@ -27,6 +27,7 @@ const WatchPage = () => {
           <LiveChat />
         </div>
       </div>
+      Comments:
       <CommentsContainer />
     </div>
   );
