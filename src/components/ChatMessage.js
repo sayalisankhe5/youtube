@@ -1,6 +1,6 @@
 const ChatMessage = ({ name, message }) => {
   return (
-    <div className="flex items-center shadow-sm">
+    <div className="flex items-center shadow-sm m-2">
       <img
         className="h-6 "
         src={
